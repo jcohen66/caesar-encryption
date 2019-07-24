@@ -6,6 +6,7 @@ Implements the techniques found in:
 
 https://blog.sicara.com/perfect-python-command-line-interfaces-7d5d4efad6a2
 
+
 ### Usage
 
 ```python
